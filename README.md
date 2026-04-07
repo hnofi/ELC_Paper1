@@ -7,6 +7,7 @@ Code to reproduce maps, masks, and figures from Nofi et al. (2025a) "Nearly Full
 We recommend the use of the **final cleaned maps** produced via the final cleaning procedure described in Section 3.6. These maps are referred to as **External Linear Combination (ELC) maps** and are available in the [ELC_Maps/](ELC_Maps/) directory.
 
 ### Data Requirements
+Note that we provide copies of the smoothed, downgraded template files used in the foreground cleaning in the Templates/ directory
 * Planck frequency maps and CO map  
   Available on the Planck Legacy Archive (PLA): https://pla.esac.esa.int/#maps
 * WMAP frequency maps, WMAP free-free map, and Haslam 408 MHz map  
