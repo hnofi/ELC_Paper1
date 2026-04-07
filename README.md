@@ -1,6 +1,6 @@
 # Paper1
 
-Code to reproduce maps, masks, and figures from Nofi et al. 2025a (arXiv: 2509.03718).
+Code to reproduce maps, masks, and figures from Nofi et al. (2025a) 'Nearly Full-Sky Low-Multipole CMB Temperature Anisotropy: I. Foreground Cleaned Maps' (arXiv: 2509.03718).
 
 The Planck frequency maps and Planck CO map can be accessed on PLA...
 
