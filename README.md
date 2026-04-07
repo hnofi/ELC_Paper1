@@ -1,4 +1,4 @@
-# Paper1
+# ELC_Paper1
 
 Code to reproduce maps, masks, and figures from Nofi et al. (2025a) "Nearly Full-Sky Low-Multipole CMB Temperature Anisotropy: I. Foreground Cleaned Maps" (https://arxiv.org/abs/2509.03718).
 
