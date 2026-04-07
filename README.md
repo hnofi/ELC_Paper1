@@ -25,11 +25,11 @@ We recommend the use of the **final cleaned maps** produced via the final cleani
   Templates used for cleaning at a common resolution
 * Downgrade&Smooth_Templates.ipynb  
   Downgrades and smooths templates to common resolution
-* Final_Cleaning.ipynb
+* Final_Cleaning.ipynb  
   Implements the final cleaning procedure used to produce the ELC maps (Section 3.6)
-* Initial_Cleaning.ipynb
+* Initial_Cleaning.ipynb  
   Implements the initial cleaning procedure (Section 3.3)
-* Percent_Masks.ipynb
+* Percent_Masks.ipynb  
   Generates the sky masks used in the analysis (Section 3.5)
 
 ### Contact:
