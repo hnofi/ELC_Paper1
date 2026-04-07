@@ -27,10 +27,10 @@ Note that we provide copies of the smoothed, downgraded template files used in t
   Available on LAMBDA:  
   https://lambda.gsfc.nasa.gov/product/wmap/dr5/mem_maps_get.html
 * Haslam 408 MHz destriped  
-  Available on LAMBDA:  
+  Available on LAMBDA:   
   https://lambda.gsfc.nasa.gov/product/foreground/fg_2014_haslam_408_get.html
-* DIRBE 240 μm ZSMA 
-  Available on CADE:  
+* DIRBE 240 μm ZSMA    
+  Available on CADE:    
   https://cade.irap.omp.eu/dokuwiki/doku.php?id=dirbe 
 
 ### Structure
