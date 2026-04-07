@@ -23,14 +23,14 @@ We recommend the use of the **final cleaned maps** produced via the final cleani
   Notebooks to reproduce all figures in Nofi et al. 2025a
 * [Templates/](Templates/)  
   Templates used for cleaning at a common resolution
-* Downgrade&Smooth_Templates.ipynb  
+* 1_Downgrade&Smooth_Templates.ipynb  
   Downgrades and smooths templates to common resolution
-* Final_Cleaning.ipynb  
-  Implements the final cleaning procedure used to produce the ELC maps (Section 3.6)
-* Initial_Cleaning.ipynb  
+* 2_Initial_Cleaning.ipynb  
   Implements the initial cleaning procedure (Section 3.3)
-* Percent_Masks.ipynb  
+* 3_Percent_Masks.ipynb  
   Generates the sky masks used in the analysis (Section 3.5)
+* 4_Final_Cleaning.ipynb  
+  Implements the final cleaning procedure used to produce the ELC maps (Section 3.6)
 
 ### Contact:
 Hayley Nofi: hnofi1@jh.edu
