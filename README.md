@@ -8,12 +8,22 @@ We recommend the use of the **final cleaned maps** produced via the final cleani
 
 ### Data Requirements
 Note that we provide copies of the smoothed, downgraded template files used in the foreground cleaning in the [Templates/](Templates/) directory.
-* Planck frequency maps and CO map  
+* Planck frequency maps  
   Available on the Planck Legacy Archive (PLA): https://pla.esac.esa.int/#maps
-* WMAP frequency maps, WMAP free-free map, and Haslam 408 MHz map  
-   Available on LAMBDA: https://lambda.gsfc.nasa.gov
-* DIRBE 240 μm map  
-  Available on CADE: https://cade.irap.omp.eu/dokuwiki/doku.php
+* WMAP frequency maps  
+  Available on LAMBDA: https://lambda.gsfc.nasa.gov/product/wmap/dr5/maps_band_smth_r9_i_9yr_get.html
+* Planck 545 GHz  
+  Available on Planck Legacy Archive (PLA): https://pla.esac.esa.int/#maps
+* Planck 857 GHz  
+  Available on Planck Legacy Archive (PLA): https://pla.esac.esa.int/#maps
+* Planck Type 2 CO J=1-0
+  Available on Planck Legacy Archive (PLA): https://pla.esac.esa.int/#maps
+* WMAP MEM free-free  
+  Available on LAMBDA: https://lambda.gsfc.nasa.gov/product/wmap/dr5/mem_maps_get.html
+* Haslam 408 MHz destriped  
+  Available on LAMBDA: https://lambda.gsfc.nasa.gov/product/foreground/fg_2014_haslam_408_get.html
+* DIRBE 240 μm ZSMA 
+  Available on CADE: https://cade.irap.omp.eu/dokuwiki/doku.php?id=dirbe 
 
 ### Structure
 * [ELC_Maps/](ELC_Maps/)  
