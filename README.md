@@ -20,7 +20,7 @@ Note that we provide copies of the smoothed, downgraded template files used in t
 * Planck 857 GHz  
   Available on Planck Legacy Archive (PLA):  
   https://pla.esac.esa.int/#maps
-* Planck Type 2 CO J=1-0
+* Planck Type 2 CO J=1-0  
   Available on Planck Legacy Archive (PLA):  
   https://pla.esac.esa.int/#maps
 * WMAP MEM free-free  
