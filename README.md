@@ -8,8 +8,8 @@ We recommend the use of the **final cleaned maps** produced via the final cleani
 
 ### Data Requirements
 Note that we provide copies of the smoothed, downgraded template files used in the foreground cleaning in the [Templates/](Templates/) directory.
-* Planck frequency maps (including 545 and 857 GHz)
-  Available on the Planck Legacy Archive (PLA):  
+* Planck frequency maps (including 545 and 857 GHz)  
+  Available on the Planck Legacy Archive (PLA):   
   https://pla.esac.esa.int/#maps
 * WMAP frequency maps  
   Available on LAMBDA:  
