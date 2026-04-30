@@ -31,9 +31,9 @@ Note that we provide copies of the smoothed, downgraded template files used in t
 * [ELC_Maps/](ELC_Maps/)  
   Final foreground-cleaned maps (recommended for analysis)
 * [ELC_Masks/](ELC_Masks/)  
-  Masks used for cleaning and statistical analysis in Nofi et al. 2025a
+  Masks used for cleaning and statistical analysis in Nofi et al. (2025)
 * [Figure_Notebooks/](Figure_Notebooks/)  
-  Notebooks to reproduce all figures in Nofi et al. 2025a
+  Notebooks to reproduce all figures in Nofi et al. (2025)
 * [Templates/](Templates/)  
   Templates used for cleaning at a common resolution
 * 1_Downgrade&Smooth_Templates.ipynb  
